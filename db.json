@@ -97,5 +97,19 @@
 				}
 			]
 		}
+	],
+	"operador": [
+		{
+			"id": "11",
+			"nome": "DOM PEDRO DE ORLEAND E BRAGANÇA"
+		},
+		{
+			"id": "22",
+			"nome": "DANIEL DONADUZZI"
+		},
+		{
+			"id": "33",
+			"nome": "REGIO DUARTE"
+		}
 	]
 }
