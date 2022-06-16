@@ -69,20 +69,27 @@
 				},
 				{
 					"processo": "30",
+					"acao": "LIXAR",
+					"inicio": "23/03/2022 7:01",
+					"fim": "23/03/2022 7:28",
+					"quantidade": "80"
+				},
+				{
+					"processo": "40",
 					"acao": "MONTAR",
 					"inicio": "23/03/2022 10:00",
 					"fim": "23/03/2022 11:10",
 					"quantidade": "78"
 				},
 				{
-					"processo": "40",
+					"processo": "50",
 					"acao": "EMBALAR",
 					"inicio": "",
 					"fim": "",
 					"quantidade": "78"
 				},
 				{
-					"processo": "50",
+					"processo": "60",
 					"acao": "EXPEDIR",
 					"inicio": "",
 					"fim": "",
