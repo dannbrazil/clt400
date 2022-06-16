@@ -1,45 +1,94 @@
 {
-	"ordem": {
-		"numero": 12345,
-		"referencia": "H11243",
-		"produto": "EXTRATOR DE COBRE 23mm",
-		"quantidade": "100",
-		"unidade": "PC",
-		"processos": [
-			{
-				"processo": "10",
-				"acao": "CORTAR",
-				"inicio": "20/03/2022 14:44",
-				"fim": "20/03/2022 15:56",
-				"quantidade": 100
-			},
-			{
-				"processo": "20",
-				"acao": "SOLDAR",
-				"inicio": "20/03/2022 17:01",
-				"fim": "",
-				"quantidade": "100"
-			},
-			{
-				"processo": "30",
-				"acao": "MONTAR",
-				"inicio": "",
-				"fim": "",
-				"quantidade": "100"
-			},
-			{
-				"processo": "40",
-				"acao": "EMBALAR",
-				"inicio": "",
-				"fim": "",
-				"quantidade": "100"
-			},
-			{
-				"processo": "50",
-				"acao": "EXPEDIR",
-				"inicio": "",
-				"fim": "",
-				"quantidade": "100"
-			}		]
-	}
+	"ordem": [
+		{
+			"id": 12345,
+			"numero": 12345,
+			"referencia": "H11243",
+			"produto": "EXTRATOR DE COBRE 23mm",
+			"quantidade": "100",
+			"unidade": "PC",
+			"processos": [
+				{
+					"processo": "10",
+					"acao": "CORTAR",
+					"inicio": "20/03/2022 14:44",
+					"fim": "20/03/2022 15:56",
+					"quantidade": 100
+				},
+				{
+					"processo": "20",
+					"acao": "SOLDAR",
+					"inicio": "20/03/2022 17:01",
+					"fim": "",
+					"quantidade": "100"
+				},
+				{
+					"processo": "30",
+					"acao": "MONTAR",
+					"inicio": "",
+					"fim": "",
+					"quantidade": "100"
+				},
+				{
+					"processo": "40",
+					"acao": "EMBALAR",
+					"inicio": "",
+					"fim": "",
+					"quantidade": "100"
+				},
+				{
+					"processo": "50",
+					"acao": "EXPEDIR",
+					"inicio": "",
+					"fim": "",
+					"quantidade": "100"
+				}
+			]
+		},
+		{
+			"id": 54321,
+			"numero": 54321,
+			"referencia": "X11335",
+			"produto": "PINO DE LATAO 12mm",
+			"quantidade": "800",
+			"unidade": "PC",
+			"processos": [
+				{
+					"processo": "10",
+					"acao": "CORTAR",
+					"inicio": "22/03/2022 14:44",
+					"fim": "22/03/2022 15:56",
+					"quantidade": 80
+				},
+				{
+					"processo": "20",
+					"acao": "SOLDAR",
+					"inicio": "22/03/2022 17:01",
+					"fim": "22/03/2022 17:48",
+					"quantidade": "80"
+				},
+				{
+					"processo": "30",
+					"acao": "MONTAR",
+					"inicio": "23/03/2022 10:00",
+					"fim": "23/03/2022 11:10",
+					"quantidade": "78"
+				},
+				{
+					"processo": "40",
+					"acao": "EMBALAR",
+					"inicio": "",
+					"fim": "",
+					"quantidade": "78"
+				},
+				{
+					"processo": "50",
+					"acao": "EXPEDIR",
+					"inicio": "",
+					"fim": "",
+					"quantidade": "78"
+				}
+			]
+		}
+	]
 }
