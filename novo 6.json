@@ -1,0 +1,160 @@
+{
+    "ordem": [
+        {
+            "id": 12345,
+            "numero": 12345,
+            "referencia": "H11243",
+            "produto": "EXTRATOR DE COBRE 23mm",
+            "quantidade": "100",
+            "unidade": "PC",
+            "processos": [
+                {
+                    "processo": "10",
+                    "acao": "CORTAR",
+                    "inicio": "20/03/2022 14:44",
+                    "fim": "20/03/2022 15:56",
+                    "quantidade": 100,
+                    "postos": [
+                        {
+                            "posto": 1,
+                            "nome": "MAQUINA 01"
+                        },
+                        {
+                            "posto": 2,
+                            "nome": "MAQUINA 02"
+                        },
+                        {
+                            "posto": 77,
+                            "nome": "MAQUINA 77"
+                        }
+                    ]
+                },
+                {
+                    "processo": "20",
+                    "acao": "SOLDAR",
+                    "inicio": "20/03/2022 17:01",
+                    "fim": "",
+                    "quantidade": "100",
+                    "postos": [
+                        {
+                            "posto": 11,
+                            "nome": "MAQUINA 11"
+                        },
+                        {
+                            "posto": 22,
+                            "nome": "MAQUINA 22"
+                        },
+                        {
+                            "posto": 77,
+                            "nome": "MAQUINA 77"
+                        }
+                    ]
+                },
+                {
+                    "processo": "30",
+                    "acao": "MONTAR",
+                    "inicio": "",
+                    "fim": "",
+                    "quantidade": "100",
+                    "postos": [
+                        {
+                            "posto": 11,
+                            "nome": "MAQUINA 11"
+                        },
+                        {
+                            "posto": 33,
+                            "nome": "MAQUINA 33"
+                        }
+                },
+                {
+                    "processo": "40",
+                    "acao": "EMBALAR",
+                    "inicio": "",
+                    "fim": "",
+                    "quantidade": "100",
+                    "postos": [
+                        {
+                            "posto": 77,
+                            "nome": "MAQUINA 77"
+                        }
+                    ]
+                },
+                {
+                    "processo": "50",
+                    "acao": "EXPEDIR",
+                    "inicio": "",
+                    "fim": "",
+                    "quantidade": "100",
+                    "postos": [
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 54321,
+            "numero": 54321,
+            "referencia": "X11335",
+            "produto": "PINO DE LATAO 12mm",
+            "quantidade": "800",
+            "unidade": "PC",
+            "processos": [
+                {
+                    "processo": "10",
+                    "acao": "CORTAR",
+                    "inicio": "22/03/2022 14:44",
+                    "fim": "22/03/2022 15:56",
+                    "quantidade": 80
+                },
+                {
+                    "processo": "20",
+                    "acao": "SOLDAR",
+                    "inicio": "22/03/2022 17:01",
+                    "fim": "22/03/2022 17:48",
+                    "quantidade": "80"
+                },
+                {
+                    "processo": "30",
+                    "acao": "LIXAR",
+                    "inicio": "23/03/2022 7:01",
+                    "fim": "23/03/2022 7:28",
+                    "quantidade": "80"
+                },
+                {
+                    "processo": "40",
+                    "acao": "MONTAR",
+                    "inicio": "23/03/2022 10:00",
+                    "fim": "23/03/2022 11:10",
+                    "quantidade": "78"
+                },
+                {
+                    "processo": "50",
+                    "acao": "EMBALAR",
+                    "inicio": "",
+                    "fim": "",
+                    "quantidade": "78"
+                },
+                {
+                    "processo": "60",
+                    "acao": "EXPEDIR",
+                    "inicio": "",
+                    "fim": "",
+                    "quantidade": "78"
+                }
+            ]
+        }
+    ],
+    "operador": [
+        {
+            "id": "11",
+            "nome": "DOM PEDRO DE ORLEAND E BRAGANÇA"
+        },
+        {
+            "id": "22",
+            "nome": "DANIEL DONADUZZI"
+        },
+        {
+            "id": "33",
+            "nome": "REGIO DUARTE"
+        }
+    ]
+}
