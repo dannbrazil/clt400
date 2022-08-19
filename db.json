@@ -4,7 +4,7 @@
             "id": 12345,
             "numero": 12345,
             "referencia": "H11243",
-            "produto": "EXTRATOR DE OURO 23mm",
+            "produto": "EXTRATOR DE COBRE 23mm",
             "quantidade": "100",
             "unidade": "PC",
             "processos": [
@@ -65,7 +65,7 @@
                             "posto": 33,
                             "nome": "MAQUINA 33"
                         }
-                      ]
+                    ]
                 },
                 {
                     "processo": "40",
@@ -86,8 +86,7 @@
                     "inicio": "",
                     "fim": "",
                     "quantidade": "100",
-                    "postos": [
-                    ]
+                    "postos": []
                 }
             ]
         },
